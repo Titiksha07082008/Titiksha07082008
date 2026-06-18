@@ -34,7 +34,7 @@ Build impactful software products and master full-stack development through real
 
 📫 Reach me:
 - Email: titiksha.p8@gmail.com
-- LinkedIn:[Titiksha Pattanayak](https://www.linkedin.com/in/titiksha-pattanayak-9a0008414/)
+- LinkedIn: [Titiksha Pattanayak](https://www.linkedin.com/in/www.linkedin.com/in/titiksha-pattanayak)
 
 ⚡ Fun fact:
 I enjoy turning ambitious ideas into working prototypes.
