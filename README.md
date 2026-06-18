@@ -34,11 +34,14 @@ Build impactful software products and master full-stack development through real
 
 📫 Reach me:
 - Email: titiksha.p8@gmail.com
-- LinkedIn: [Titiksha Pattanayak](https://www.linkedin.com/in/www.linkedin.com/in/titiksha-pattanayak)
+- LinkedIn: [Titiksha Pattanayak](https://www.linkedin.com/in/titiksha-pattanayak/)
+- X/Twitter: [@Titiksha_P](https://x.com/Titiksha_P)
+
+
+I'm always interested in discussing technology, AI, startups, and ambitious projects.
 
 ⚡ Fun fact:
-I enjoy turning ambitious ideas into working prototypes.
-
+I love exploring big ideas and turning them into real software.
 
 <!---
 Titiksha07082008/Titiksha07082008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
